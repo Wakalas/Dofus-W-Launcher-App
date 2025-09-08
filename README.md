@@ -22,7 +22,7 @@ Création de compte: #my-account -> /new_account
 
 
 ## 📥 **Téléchargement (Windows uniquement pour le moment)**
-➡️ [Dofus W Launcher V1 BETA] (https://github.com/Wakalas/Dofus-W-Launcher-App/releases/download/v1.0.0/Dofus_W_Launcher.exe)
+➡️ [Dofus W Launcher (V1 BETA)](https://github.com/Wakalas/Dofus-W-Launcher-App/releases/download/v1.0.0/Dofus_W_Launcher.exe)
 
 
 
