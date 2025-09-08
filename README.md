@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/zczfSW5/Dofus-WLauncher-Logo.png" width="150">
+<img src="https://i.ibb.co/zczfSW5/Dofus-WLauncher-Logo.png" width="300">
 
 # **Dofus W Launcher (V1 BETA)**  
 
